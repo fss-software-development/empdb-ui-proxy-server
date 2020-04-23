@@ -9,6 +9,6 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "generateAccount": "node ./generateAccount.js > ./server/accounts.json",
-    "server": "json-server --watch ./server/db.json --id "
+    "server": "json-server --port 8081 --routes ./routes.json --watch ./server/db.json --id "
   }
 }
