@@ -10,19 +10,37 @@
     {
       "accountId": 1,
       "accountName": "HDFC",
-      "regionId": 1
+	  "region":{
+		"regionId": 1,
+		"regionName": "Mumbai"
+	  }
     },
     {
       "accountId": 2,
       "accountName": "IDFC",
-      "regionId": 2
+      "region":{
+		"regionId": 2,
+		"regionName": "Chennai"
+	  }
     }
   ],
   "employees": [
     {
-      "employeeId": 1,
-      "employeeName": "Employee Database",
-      "regionId": 1
+      "employeeSqid": 1,
+      "firstName": "Rama Prabhu",
+	  "lastName": "Radhakrishnan",
+      "emailId": "ramaprabhur@fss.co.in",
+	  "active": false
+    }
+  ],
+  "regions": [
+    {
+      "regionId": 1,
+      "regionName": "Mumbai"
+    },
+	{
+      "regionId": 2,
+      "regionName": "Chennai"
     }
   ]
 }

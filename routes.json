@@ -2,5 +2,7 @@
   "/empdb/services/v1/employees": "/employees",
   "/empdb/services/v1/projects": "/projects",
   "/empdb/services/v1/accounts": "/accounts",
-  "/empdb/services/v1/accounts/:accountId": "/accounts/:accountId"
+  "/empdb/services/v1/accounts/:accountId": "/accounts/:accountId",
+  "/empdb/services/v1/masters/customers": "/accounts",
+  "/empdb/services/v1/masters/regions": "/regions"
 }
