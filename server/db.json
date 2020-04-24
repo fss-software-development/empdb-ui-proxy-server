@@ -10,27 +10,90 @@
     {
       "accountId": 1,
       "accountName": "HDFC",
-	  "region":{
-		"regionId": 1,
-		"regionName": "Mumbai"
-	  }
+      "region": {
+        "regionId": 1,
+        "regionName": "Mumbai"
+      }
     },
     {
       "accountId": 2,
       "accountName": "IDFC",
-      "region":{
-		"regionId": 2,
-		"regionName": "Chennai"
-	  }
+      "region": {
+        "regionId": 2,
+        "regionName": "Chennai"
+      }
     }
   ],
   "employees": [
     {
-      "employeeSqid": 1,
+      "employeeSqid": 2,
       "firstName": "Rama Prabhu",
-	  "lastName": "Radhakrishnan",
+      "lastName": "Radhakrishnan",
       "emailId": "ramaprabhur@fss.co.in",
-	  "active": false
+      "active": false
+    },
+    {
+      "employeeSqid": 3,
+      "firstName": "Rama Prabhu",
+      "lastName": "Radhakrishnan",
+      "emailId": "ramaprabhur@fss.co.in",
+      "active": false
+    },
+    {
+      "employeeSqid": 4,
+      "firstName": "Rama Prabhu",
+      "lastName": "Radhakrishnan",
+      "emailId": "ramaprabhur@fss.co.in",
+      "active": false
+    },
+    {
+      "employeeSqid": 5,
+      "firstName": "Rama Prabhu",
+      "lastName": "Radhakrishnan",
+      "emailId": "ramaprabhur@fss.co.in",
+      "active": false
+    },
+    {
+      "employeeSqid": 6,
+      "firstName": "Rama Prabhu",
+      "lastName": "Radhakrishnan",
+      "emailId": "ramaprabhur@fss.co.in",
+      "active": false
+    },
+    {
+      "employeeSqid": 7,
+      "firstName": "Rama Prabhu",
+      "lastName": "Radhakrishnan",
+      "emailId": "ramaprabhur@fss.co.in",
+      "active": false
+    },
+    {
+      "employeeSqid": 8,
+      "firstName": "Rama Prabhu",
+      "lastName": "Radhakrishnan",
+      "emailId": "ramaprabhur@fss.co.in",
+      "active": false
+    },
+    {
+      "employeeSqid": 9,
+      "firstName": "Rama Prabhu",
+      "lastName": "Radhakrishnan",
+      "emailId": "ramaprabhur@fss.co.in",
+      "active": false
+    },
+    {
+      "employeeSqid": 10,
+      "firstName": "Rama Prabhu",
+      "lastName": "Radhakrishnan",
+      "emailId": "ramaprabhur@fss.co.in",
+      "active": false
+    },
+    {
+      "employeeSqid": 11,
+      "firstName": "Rama Prabhu",
+      "lastName": "Radhakrishnan",
+      "emailId": "ramaprabhur@fss.co.in",
+      "active": false
     }
   ],
   "regions": [
@@ -38,9 +101,79 @@
       "regionId": 1,
       "regionName": "Mumbai"
     },
-	{
+    {
       "regionId": 2,
       "regionName": "Chennai"
+    }
+  ],
+  "departments": [
+    {
+      "departmentId": 1,
+      "departmentName": "OFSD"
+    },
+    {
+      "departmentId": 2,
+      "departmentName": "HR"
+    }
+  ],
+  "grades": [
+    {
+      "gradeId": 1,
+      "gradeName": "M1"
+    },
+    {
+      "gradeId": 2,
+      "gradeName": "M2"
+    }
+  ],
+  "designations": [
+    {
+      "designationId": 1,
+      "designationName": "Java Developer"
+    },
+    {
+      "designationId": 2,
+      "designationName": "Angular Developer"
+    }
+  ],
+  "locations": [
+    {
+      "locationId": 1,
+      "locationName": "India"
+    },
+    {
+      "locationId": 2,
+      "locationName": "Singapore"
+    }
+  ],
+  "serviceLines": [
+    {
+      "serviceLineId": 1,
+      "serviceLineName": "Service Line 1"
+    },
+    {
+      "serviceLineId": 2,
+      "serviceLineName": "Service Line 2"
+    }
+  ],
+  "billableStatus": [
+    {
+      "billableStatusId": 1,
+      "billableStatus": "Billable"
+    },
+    {
+      "billableStatusId": 2,
+      "billableStatus": "Non Billable"
+    }
+  ],
+  "academics": [
+    {
+      "academicsId": 1,
+      "academicsName": "B.E."
+    },
+    {
+      "academicsId": 2,
+      "academicsName": "B.Sc."
     }
   ]
 }

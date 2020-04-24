@@ -3,6 +3,15 @@
   "/empdb/services/v1/projects": "/projects",
   "/empdb/services/v1/accounts": "/accounts",
   "/empdb/services/v1/accounts/:accountId": "/accounts/:accountId",
+  "/empdb/services/v1/employees/:employeeSqid": "/employees/:employeeSqid",
   "/empdb/services/v1/masters/customers": "/accounts",
-  "/empdb/services/v1/masters/regions": "/regions"
+  "/empdb/services/v1/masters/regions": "/regions",
+  
+  "/empdb/services/v1/masters/departments": "/departments",
+  "/empdb/services/v1/masters/designations": "/designations",
+  "/empdb/services/v1/masters/grades": "/grades",
+  "/empdb/services/v1/masters/locations": "/locations",
+  "/empdb/services/v1/masters/serviceLines": "/serviceLines",
+  "/empdb/services/v1/masters/billableStatus": "/billableStatus",
+  "/empdb/services/v1/masters/academics": "/academics"
 }
