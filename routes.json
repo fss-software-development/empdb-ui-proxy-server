@@ -1,4 +1,7 @@
 {
+  "/empdb/services/v1/employees/search": "/employees",
+  "/empdb/services/v1/accounts/search": "/accounts",
+  
   "/empdb/services/v1/employees": "/employees",
   "/empdb/services/v1/projects": "/projects",
   "/empdb/services/v1/accounts": "/accounts",
@@ -6,6 +9,7 @@
   "/empdb/services/v1/employees/:employeeSqid": "/employees/:employeeSqid",
   "/empdb/services/v1/masters/customers": "/accounts",
   "/empdb/services/v1/masters/regions": "/regions",
+  
   
   "/empdb/services/v1/masters/departments": "/departments",
   "/empdb/services/v1/masters/designations": "/designations",

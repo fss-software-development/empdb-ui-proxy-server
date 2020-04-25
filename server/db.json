@@ -26,74 +26,47 @@
   ],
   "employees": [
     {
-      "employeeSqid": 2,
-      "firstName": "Rama Prabhu",
-      "lastName": "Radhakrishnan",
-      "emailId": "ramaprabhur@fss.co.in",
-      "active": false
-    },
-    {
-      "employeeSqid": 3,
-      "firstName": "Rama Prabhu",
-      "lastName": "Radhakrishnan",
-      "emailId": "ramaprabhur@fss.co.in",
-      "active": false
-    },
-    {
-      "employeeSqid": 4,
-      "firstName": "Rama Prabhu",
-      "lastName": "Radhakrishnan",
-      "emailId": "ramaprabhur@fss.co.in",
-      "active": false
-    },
-    {
-      "employeeSqid": 5,
-      "firstName": "Rama Prabhu",
-      "lastName": "Radhakrishnan",
-      "emailId": "ramaprabhur@fss.co.in",
-      "active": false
-    },
-    {
-      "employeeSqid": 6,
-      "firstName": "Rama Prabhu",
-      "lastName": "Radhakrishnan",
-      "emailId": "ramaprabhur@fss.co.in",
-      "active": false
-    },
-    {
-      "employeeSqid": 7,
-      "firstName": "Rama Prabhu",
-      "lastName": "Radhakrishnan",
-      "emailId": "ramaprabhur@fss.co.in",
-      "active": false
-    },
-    {
-      "employeeSqid": 8,
-      "firstName": "Rama Prabhu",
-      "lastName": "Radhakrishnan",
-      "emailId": "ramaprabhur@fss.co.in",
-      "active": false
-    },
-    {
-      "employeeSqid": 9,
-      "firstName": "Rama Prabhu",
-      "lastName": "Radhakrishnan",
-      "emailId": "ramaprabhur@fss.co.in",
-      "active": false
-    },
-    {
-      "employeeSqid": 10,
-      "firstName": "Rama Prabhu",
-      "lastName": "Radhakrishnan",
-      "emailId": "ramaprabhur@fss.co.in",
-      "active": false
-    },
-    {
-      "employeeSqid": 11,
-      "firstName": "Rama Prabhu",
-      "lastName": "Radhakrishnan",
-      "emailId": "ramaprabhur@fss.co.in",
-      "active": false
+        "employeeSqid": 1,
+        "employeeId": "10453",
+        "departmentId": 1,
+        "departmentName": "",
+        "accountId": 1,
+        "accountName": "",
+        "regionId": 1,
+        "regionName": "",
+        "locationId": 1,
+        "locationName": "",
+        "firstName": "Rama",
+        "middleName": "Prabhu",
+        "lastName": "Radhakrishnan",
+        "mobileNumber": "1234",
+        "emailId": "ramaprabhur@fss.co.in",
+        "gradeId": 4,
+        "designationId": 1,
+        "designationName": "",
+        "reportingManager": "Balaji",
+        "previousExperience": 0,
+        "joiningDate": "2004-08-19",
+        "activityName": "",
+        "billableId": 1,
+        "billableName": "",
+        "serviceLineId": 1,
+        "serviceLineName": "",
+        "primarySkillId": 1,
+        "primarySkillName": "",
+        "experienceGaps": 0,
+        "academicsId": 1,
+        "academicsName": "",
+        "projectTaggingId": 1,
+        "projectTaggingName": "",
+        "definiteRoleId": 1,
+        "definiteRoleName": "",
+        "possibleRoleId": 1,
+        "possibleRoleName": "",
+        "insUser": 1,
+        "insDate": "2020-03-28T17:57:25.000+0000",
+        "lastUpdUser": 1,
+        "lastUpdDate": null
     }
   ],
   "regions": [
