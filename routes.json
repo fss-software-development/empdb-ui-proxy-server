@@ -1,6 +1,7 @@
 {
   "/empdb/services/v1/employees/search": "/employees",
   "/empdb/services/v1/accounts/search": "/accounts",
+  "/empdb/services/v1/projects/search": "/projects",
   
   "/empdb/services/v1/employees": "/employees",
   "/empdb/services/v1/projects": "/projects",
